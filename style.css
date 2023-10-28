@@ -1,0 +1,28 @@
+h1{
+    color:brown;
+}
+h2{
+    color:azure;
+}
+h3{
+    color:red;
+}
+h4{
+    color:aquamarine
+}
+h5{
+    color:blue;
+}
+h6{
+    color:blueviolet;
+}
+p{
+    color:purple;
+}
+body{
+    background-color: rgb(200,10,255);
+}
+button{
+    color:black;
+    background-color: brown;
+}
